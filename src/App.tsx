@@ -1,4 +1,4 @@
-import React from 'react'
+
 import { Frame } from '@components/Frame'
 import { Canvas } from '@components/Canvas'
 import { useSelector } from 'react-redux'
